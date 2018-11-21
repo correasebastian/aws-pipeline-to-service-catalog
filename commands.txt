@@ -1,0 +1,3 @@
+aws codecommit create-repository --repository-name sample-lambda \
+ --repository-description "Sample Lambda Function" --profile ky-elkykelyn-admin \
+ --region us-east-1
